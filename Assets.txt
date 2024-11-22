@@ -1,0 +1,5 @@
+Chair$--$4491054716$--$False$--$0$--$$--$This is a chair$--$C:\Users\Benim Bilgisayarim\PycharmProjects\pythonProject2\chair1.jpg
+Table$--$2455415484$--$False$--$0$--$$--$This is a table$--$C:\Users\Benim Bilgisayarim\PycharmProjects\pythonProject2\table.jpeg
+Walker$--$6454545545$--$True$--$0$--$$--$This is a desk$--$C:\Users\Benim Bilgisayarim\PycharmProjects\pythonProject2\walker.jfif
+Bed$--$4597169746$--$True$--$0$--$$--$This is a bed$--$C:\Users\Benim Bilgisayarim\PycharmProjects\pythonProject2\bed.jpeg
+Lamp$--$8719271641$--$False$--$0$--$$--$This is a lamp$--$C:\Users\Benim Bilgisayarim\PycharmProjects\pythonProject2\lamp.jpeg
